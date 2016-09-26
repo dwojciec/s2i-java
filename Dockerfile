@@ -1,5 +1,5 @@
 # s2i-java
-FROM openshift/base-centos7
+FROM rhel7
 MAINTAINER Jorge Morales <jmorales@redhat.com>
 # HOME in base image is /opt/app-root/src
 
