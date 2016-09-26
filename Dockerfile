@@ -1,5 +1,5 @@
 # s2i-java
-FROM rhel7.2:latest
+FROM registry.access.redhat.com/rhel7.2
 MAINTAINER Jorge Morales <jmorales@redhat.com>
 # HOME in base image is /opt/app-root/src
 
