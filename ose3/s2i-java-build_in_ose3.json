@@ -33,7 +33,7 @@
             "source": {
                "type": "Git",
                "git": {
-                  "uri": "https://github.com/jorgemoralespou/s2i-java.git",
+                  "uri": "https://github.com/dwojciec/s2i-java.git",
                   "ref": "master"
                }
             },
@@ -119,7 +119,7 @@
             {
                "description": "Git source URI for application",
                "name": "GIT_URI",
-               "value": "https://github.com/jorgemoralespou/osev3-examples.git"
+               "value": "https://github.com/dwojciec/osev3-examples.git"
             },
             {
                "description": "Git branch/tag reference",
@@ -361,7 +361,7 @@
             {
                "description": "Git source URI for application",
                "name": "GIT_URI",
-               "value": "https://github.com/jorgemoralespou/osev3-examples.git"
+               "value": "https://github.com/dwojciec/osev3-examples.git"
             },
             {
                "description": "Git branch/tag reference",
